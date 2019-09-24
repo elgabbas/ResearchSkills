@@ -9,7 +9,6 @@
 
 *.toc
 *.bak
-*.bbl
 *.blg
 
 Exercises/*.pdf
@@ -57,3 +56,34 @@ Labs/ProjectOrganization/ExampleProject/thesis/mydocument.pdf
 *.Rhistory
 
 Labs/Statistics/Script/EssentialStatistics-*.pdf
+
+Labs/Statistics/Practicals/GraphicsInR/Archive.zip
+
+Labs/Statistics/Practicals/GraphicsInR/EssentialStatistics.pdf
+
+Labs/LaTeX/Practical/how_to_latex.pdf
+.Rproj.user
+
+Labs/Statistics/Script/Sweave.sty
+
+Labs/Statistics/Script/Sweavel.sty
+
+Labs/Statistics/Script/figure/
+
+Labs/Statistics/Script/EssentialStatistics.pdf
+
+LectureNotes/ResearchSkills.pdf
+
+Labs/LaTeX/Script/how_to_latex.pdf
+
+LectureNotes/ResearchSkills.pdf
+
+Labs/Statistics/Script/EssentialStatistics.bbl
+*.bbl
+
+Labs/LaTeX/Practical.zip
+
+Labs/LaTeX/MoreLatexTemplatesHidden/
+Labs/LaTeX/Practical.zip
+
+*.DS_Store

@@ -1,29 +1,31 @@
-# A crash course in data visualization and analysis with R
-R is the ne plus ultra of statistics software in ecology. For you, there is no getting around learning (at least) basic statistical analysis with R.
-For this matter, we provide a stats practical with the objective to make you familiar with basic operations in R, such as 
+# Data visualization and analysis with R
 
-* load data into R
-* do some basic plotting
-* do some basic staistical analysis
-* ...
+R is the de-facto standard for statistical analysis ecology and beyond. There is no getting around learning R if you want to analyze data. The following resources are meant to help you getting a good start:
 
-and a graphics with R practical to show you basic plotting commands.
+#### Lecture notes
 
-## Software to install
+* The **[RS statistics lecture notes](https://www.dropbox.com/s/s38ge7pjgf55qs1/EssentialStatistics.pdf?dl=0)** provides an introduction to the topics of statistics and data analysis
+
+
+#### Practicals
+
+* [Graphics with R](https://github.com/florianhartig/ResearchSkills/blob/master/Labs/Statistics/Practicals/GraphicsInR/Rgraphics.md)
+
+* [Statistical Analysis](https://github.com/florianhartig/ResearchSkills/blob/master/Labs/Statistics/Practicals/StatisticalAnalysisInR/Statistics.md)
+
+For the course, I will make zipped versions of this practicals, together with source code, data and scripts, avaiable on ILIAS.
+
+#### Software to install
+
+If you want to run / try out the code, you need to install: 
 
 * [R](https://cran.r-project.org/)
 * [R Studio](https://www.rstudio.com/products/rstudio/download/)
 
+## Validity and critical apraisal of published studies 
 
-## Script 
+* [Evaluating scientific evidence](https://ecologyisnotadirtyword.com/2016/02/04/evaluating-scientific-evidence/)
+* [Critical Appraisal of Scientific Articles](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2696241/)
 
-This [script](https://github.com/florianhartig/ResearchSkills/blob/master/Labs/Statistics/Script/EssentialStatistics.pdf) provides a statistics crash course with links to the implementation in R.
-It is not meant to replace a proper introductory text-book. For beginners, we recommend Dormann (2013) for German
-speakers (ebook free of charge for students from Freiburg, contact Florian) and Gotelli and Ellison (2004) for English speakers. 
-Also, see the stats help website of our department [here](http://biometry.github.io/APES/).
 
-## Practicals 
-
-* [Statistical Analysis](https://github.com/florianhartig/ResearchSkills/blob/master/Labs/Statistics/Practicals/StatisticalAnalysisInR/Statistics.md)
-* [Graphics with R](https://github.com/florianhartig/ResearchSkills/blob/master/Labs/Statistics/Practicals/GraphicsR/Rgraphics.R)
 

@@ -2,7 +2,7 @@
 
 ## Before the module starts:
 
-### Software installed in the CIP pools?
+#### Software installed in the CIP pools?
 
 * Jabref + Libre Office 
 * R
@@ -10,16 +10,20 @@
 * Inkscape
 * GitHub?
 
-### Exercises prepared?
+#### Update ILIAS 
 
-Are all exercises / Labs OK, prepared?
+I will copy the ILIAS course from last year. Afterwards:
 
-## During the class
+* Dates of sessions and exercises need to be updated
+* Remove all the slides from last year, but keep links and other material
+* Check if everything looks good 
+
+
+## During the module
 
 * Tutorials
-* Homework handed in?
+* Check for all people if homework handed in
 
+## After the module 
 
-## After
-
-* List of 
+* List for things to improve?
